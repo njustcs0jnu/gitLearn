@@ -1,8 +1,8 @@
 def main():
     print("hello")
 
-def func1():
-    print(1)
+def funcBob():
+    print("Bob")
 
 def func2():
     print(2)
